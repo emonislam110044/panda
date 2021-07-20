@@ -1,0 +1,28 @@
+.btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carosel-color{
+    background-color: #fceae8;
+    padding: 25px;
+    border-radius: 5px;
+}
+#watch{
+    background-color: #ffa500;
+    padding: 5px 40px;
+    border-radius: 10px;
+}
+#shoes{
+    background-color: #da70d6;
+    padding: 5px 40px;
+    border-radius: 10px; 
+}
+#bag{
+    background-color: #0000ff;
+    padding: 5px 40px;
+    border-radius: 10px; 
+}
